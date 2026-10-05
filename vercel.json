@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/blog/1031-exchange-rules-for-investors",
+      "destination": "https://www.aetaxadvisors.com/blog/1031-exchange-timeline-45-180-day-rules/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/str-tax-strategies-short-term-rental",
+      "destination": "https://www.aetaxadvisors.com/blog/short-term-rental-tax-strategy-guide/",
+      "permanent": true
+    }
+  ]
+}
