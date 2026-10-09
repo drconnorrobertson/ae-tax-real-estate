@@ -10,5 +10,7 @@
       "destination": "https://www.aetaxadvisors.com/blog/short-term-rental-tax-strategy-guide/",
       "permanent": true
     }
-  ]
+  ],
+  "buildCommand": "node decision-library-build.cjs",
+  "outputDirectory": "public"
 }

@@ -1,0 +1,304 @@
+{
+  "key": "realestate",
+  "repo": "ae-tax-real-estate",
+  "domain": "aetaxadvisorsforrealestate.com",
+  "target": 300,
+  "route": "property-files",
+  "title": "Real Estate Property Review Files",
+  "contexts": [
+    [
+      "Single-family long-term rentals",
+      "Keep the purchase, tenant use and subsequent improvements linked to the same property identifier.",
+      "closing statement; lease dates; improvement invoices; depreciation schedule; management ledger",
+      "A landlord replaces flooring and appliances during a tenant turnover.",
+      "Distinguish retained property, removed items and new spending."
+    ],
+    [
+      "Duplexes",
+      "Separate unit-specific work from systems serving both units.",
+      "unit floor plan; leases; shared-system invoices; cost allocations; asset schedule",
+      "One duplex unit is renovated while the other remains occupied.",
+      "Record which unit each cost and service date belongs to."
+    ],
+    [
+      "Triplexes",
+      "Map the three units and common-area costs before assigning figures to an individual unit.",
+      "unit inventory; leases; utility layout; common-area invoices; ownership records",
+      "The owner upgrades common stairs and one unit's kitchen in the same contract.",
+      "Separate location and function within the contractor package."
+    ],
+    [
+      "Fourplexes",
+      "Reconcile apartment, common-area and exterior work to the total project.",
+      "unit diagrams; rent roll; exterior invoices; project credits; depreciation reports",
+      "A fourplex renovation combines roofs, landscaping and unit fixtures.",
+      "Do not assign a bundled invoice entirely to one cost category."
+    ],
+    [
+      "Small apartment buildings",
+      "Preserve unit counts, shared amenities and each capital project's boundaries.",
+      "rent roll; site plan; project ledger; unit photos; asset exports",
+      "An apartment owner upgrades a laundry room while replacing unit equipment.",
+      "Identify the ownership and physical location of each item."
+    ],
+    [
+      "Large apartment communities",
+      "Use stable property and building identifiers throughout acquisition and project records.",
+      "building register; valuation allocation; capital budget; service dates; common-area plans",
+      "Several buildings close together and later enter renovation in phases.",
+      "Reconcile property and building totals before combining the portfolio."
+    ],
+    [
+      "Condominium rentals",
+      "Identify unit ownership separately from association-owned facilities and expenditures.",
+      "deed; association documents; assessments; unit invoices; rental calendar",
+      "A condo owner pays an assessment and renovates the interior.",
+      "Ask what the payment funded and what the owner actually owns."
+    ],
+    [
+      "Townhouse rentals",
+      "Distinguish unit-specific construction from shared facilities governed by agreements.",
+      "deed; association terms; common-area records; improvement invoices; lease",
+      "A townhouse owner pays for an exterior project managed by an association.",
+      "Keep the governing documents with the cost record."
+    ],
+    [
+      "Short-term rental houses",
+      "Preserve booking history, operating tasks and separately purchased guest furnishings.",
+      "booking exports; use calendar; task logs; furniture invoices; closing documents",
+      "A house opens for guests before a later amenity project is completed.",
+      "Track property use and each asset's readiness separately."
+    ],
+    [
+      "Vacation cabins",
+      "Explain site work, furnishing purchases and seasonal availability.",
+      "site plan; utility work; furnishing inventory; booking records; contractor costs",
+      "A cabin's deck remains while a hot tub and electrical circuit are replaced.",
+      "Distinguish equipment, retained construction and new site work."
+    ],
+    [
+      "Beach rentals",
+      "Record weather-related repairs, later improvements and personal-use periods separately.",
+      "use calendar; insurance records; replacement invoices; original schedules; management records",
+      "A storm repair project includes both replacement and upgrades.",
+      "Preserve the original scope and any reimbursement records."
+    ],
+    [
+      "Mountain rentals",
+      "Explain seasonal operation, access work and phased projects.",
+      "opening calendar; access plans; utility invoices; equipment records; booking history",
+      "A property operates in winter while summer work adds amenities.",
+      "Do not infer a common service date from the annual operating calendar."
+    ],
+    [
+      "Mixed-use buildings",
+      "Map commercial and residential areas and shared systems.",
+      "floor plan; commercial leases; residential leases; area measurements; project invoices",
+      "A retail unit and apartments share a major building system.",
+      "Record use, ownership and allocation assumptions for the shared work."
+    ],
+    [
+      "Owner-occupied office buildings",
+      "Separate building ownership, operating-company use and any third-party tenants.",
+      "deeds; rent agreements; entity records; floor plan; depreciation schedules",
+      "The operating business pays rent to a separately owned property entity.",
+      "Keep the two entities' reporting and responsibilities distinct."
+    ],
+    [
+      "Medical office buildings",
+      "Explain tenant equipment, specialized installations and general building systems.",
+      "leases; equipment ownership; installation plans; construction invoices; asset records",
+      "A practice installs equipment in space owned by another entity.",
+      "Identify who paid and who owns each installation."
+    ],
+    [
+      "Dental office buildings",
+      "Distinguish dental equipment and related work from general facility construction.",
+      "equipment invoices; lease provisions; utilities plans; project costs; opening records",
+      "A landlord provides a shell and a practice funds specialized buildout.",
+      "Map the funding and ownership before requesting classification advice."
+    ],
+    [
+      "Retail buildings",
+      "Separate landlord improvements, tenant work and common facilities.",
+      "leases; tenant allowances; project invoices; storefront plans; owner schedules",
+      "A retail lease provides an allowance for a tenant renovation.",
+      "Reconcile allowance payments with actual work and ownership."
+    ],
+    [
+      "Restaurant buildings",
+      "Document kitchen equipment, restaurant installations and building ownership.",
+      "equipment inventory; installation invoices; leases; construction scope; property basis",
+      "A restaurant owns kitchen equipment in a leased building.",
+      "Do not assume all visible components belong to the property owner."
+    ],
+    [
+      "Warehouses",
+      "Distinguish storage equipment, tenant installations and building systems.",
+      "racking inventory; leases; installation plans; project invoices; asset register",
+      "A tenant installs racking and later modifies the leased space.",
+      "Retain the agreement and removal rights with the inventory."
+    ],
+    [
+      "Self-storage properties",
+      "Map storage buildings, access systems, paved areas and later additions.",
+      "site plan; access-system records; paving invoices; building inventory; service dates",
+      "An owner expands units and upgrades a gate in different phases.",
+      "Keep each work package identifiable in the final cost file."
+    ],
+    [
+      "Manufacturing properties",
+      "Describe machinery-related work and general plant construction separately.",
+      "machine layout; utilities plans; construction contracts; equipment ownership; production dates",
+      "A new production line uses infrastructure shared with existing operations.",
+      "Record what the installation serves and which construction remained."
+    ],
+    [
+      "Rental portfolios",
+      "Maintain a property-by-property map before aggregating results.",
+      "address register; owner entities; closing allocations; asset schedules; state filing list",
+      "Several properties share a loan and management account.",
+      "A shared account does not replace property-level records."
+    ]
+  ],
+  "tasks": [
+    [
+      "Acquisition basis bridge",
+      "Connect the closing record to the property cost pool supplied for review.",
+      "Record the source purchase figures, separately identified items, land-allocation support and adjustments determined by the preparer. Reconcile to the current schedule instead of adding replacement prices as new acquisition spending.",
+      "A closing-to-schedule bridge with unresolved differences.",
+      "Purchase and schedule totals do not reconcile.",
+      "Which source figures and allocation decisions form the cost pool being analyzed?",
+      "closing amount; separately identified items; land support; schedule total; difference"
+    ],
+    [
+      "Improvement project file",
+      "Separate new work, retained items, removals and project credits.",
+      "Keep original contracts, changes, final invoices and owner-direct purchases together. Identify what each package covers and do not count deposits as additional cost. Ask the preparer to decide tax treatment from the documented work.",
+      "A project-total reconciliation and work-package map.",
+      "The contractor total overlaps owner-direct purchases or allowances.",
+      "Which packages and credits need clarification before the improvement enters the schedule?",
+      "contract total; change orders; direct purchases; credits; retained items"
+    ],
+    [
+      "Placed-in-service evidence",
+      "Build the factual timeline of readiness for intended use.",
+      "Distinguish purchase, delivery, installation, completion and operational readiness. Keep property-level and component-level records separate when projects are phased. The worksheet records evidence and does not determine the final depreciation start date.",
+      "A dated readiness timeline for preparer review.",
+      "One payment date is used for every component.",
+      "What records establish readiness for each relevant asset or phase?",
+      "purchase date; installation date; completion record; availability record; phase identifier"
+    ],
+    [
+      "Ownership and use map",
+      "Identify the owner, user and payer for the property and its components.",
+      "Match title, agreements and cost records. Explain personal use, tenant-owned property and shared systems where relevant. Legal title and tax reporting can require professional interpretation; preserve the documents rather than assuming the answer.",
+      "An owner-user-payer map with questions marked.",
+      "An item visible at the property is assumed to belong to the landlord.",
+      "Who owns and reports each material component and what use facts matter?",
+      "title holder; tax reporter; payer; user; agreement evidence"
+    ],
+    [
+      "Rental operation record",
+      "Prepare booking or tenancy and activity records alongside the property file.",
+      "Record leases or guest stays, availability, owner use and changes in operation. Preserve task and third-party records where relevant. Keep activity classification separate from the amount of depreciation calculated by a study.",
+      "A property-use timeline and activity source register.",
+      "A property label replaces an actual use history.",
+      "What classification and participation questions should be reviewed for this activity?",
+      "use period; lease or stays; availability; owner use; third-party roles"
+    ],
+    [
+      "Depreciation history request",
+      "Recover prior schedules and reporting before changing the property analysis.",
+      "Collect filed returns, asset exports, prior reports and later additions. Identify missing records and who has requested them. Do not assume no depreciation was reported merely because the owner cannot find the schedule.",
+      "A year-by-year history and missing-record log.",
+      "A proposed catch-up amount ignores earlier reporting.",
+      "What reporting history must be reconstructed before selecting an implementation method?",
+      "year; return source; schedule location; prior report; missing record"
+    ],
+    [
+      "Loss usability questions",
+      "Connect the property estimate to the owner-level review.",
+      "Prepare income categories, ownership, activity facts and existing suspended amounts. Ask the preparer which limitations apply and in what order. A large depreciation estimate is not a guarantee of an immediately usable loss.",
+      "A preparer question list with supporting records.",
+      "The estimate is described as a current tax saving without an owner-level analysis.",
+      "Which limitations or missing facts prevent a conclusion about current usability?",
+      "owner entity; income categories; activity evidence; suspended amounts; open limitation"
+    ],
+    [
+      "Study quote scope file",
+      "Compare providers using the same property record and written scope.",
+      "Record the cost pool, deliverables, inspection approach, fee and exclusions in each proposal. Clarify report follow-up and the return preparer's work separately. A larger estimated deduction does not establish a better or more complete study.",
+      "An equivalent-scope comparison table.",
+      "Quotes use different cost pools or exclude implementation work.",
+      "What differences in assumptions and deliverables explain the proposals?",
+      "cost pool; methodology; report detail; study fee; implementation scope"
+    ],
+    [
+      "Return preparer handoff",
+      "Make the study and filing responsibilities explicit.",
+      "Send the final report, acquisition records, additions and prior schedule through a secure channel. List questions and preserve report versions. The study provider and preparer should agree which person resolves each classification or procedure issue.",
+      "A report-to-return responsibility register.",
+      "An earlier draft is used after the provider issued corrections.",
+      "Who has the final report and who verifies the treatment actually implemented?",
+      "final report version; preparer; issue log; implementation route; completion evidence"
+    ],
+    [
+      "Replacement history file",
+      "Separate the old component history from the new spending.",
+      "Keep location, photographs, prior schedule and removal evidence for the old item. Keep the replacement invoice separately. Ask the preparer about applicable disposition treatment instead of assuming the new invoice proves the old item's original basis.",
+      "A removed-retained-new component map.",
+      "The old item stays on the schedule without a recorded review.",
+      "What historical support is needed to evaluate the removed component?",
+      "old item identifier; prior schedule; removal evidence; retained work; replacement cost"
+    ],
+    [
+      "Planned sale preparation",
+      "Evaluate the exit with the full depreciation and transaction history.",
+      "Collect original basis, improvements, prior depreciation, ownership and draft terms. Ask for an after-tax comparison with costs and timing. Do not treat a study's first-year projection as a complete lifetime benefit.",
+      "A sale-review file with dated draft assumptions.",
+      "The analysis ignores prior depreciation or changes in sale terms.",
+      "How do the expected transaction and depreciation history change the comparison?",
+      "sale structure; expected date; depreciation history; proposed allocation; selling costs"
+    ],
+    [
+      "State implementation map",
+      "Keep property study conclusions separate from state-return decisions.",
+      "List property locations, owners, filing history and questions for each jurisdiction. Preserve the federal report as one input rather than copying its estimate into every state model. Ask the preparer to review the actual state treatment.",
+      "A jurisdiction-by-entity implementation question register.",
+      "A federal estimate is presented as the final combined tax result.",
+      "Which jurisdiction-specific adjustments or filings require review?",
+      "property state; owner state; filing history; federal input; state review question"
+    ]
+  ],
+  "masters": [
+    [
+      "Property portfolio source map",
+      "Keep addresses, owners and record sources together before combining estimates.",
+      "property; owner; record custodian; prior schedule; unresolved question"
+    ],
+    [
+      "Study versus wait decision file",
+      "Compare a proposed study with waiting for better records or a clearer income picture.",
+      "study cost; missing record; usability question; holding period; wait condition"
+    ],
+    [
+      "Property transaction calendar",
+      "Separate acquisition, work, availability, filing and planned sale events.",
+      "event; property; source date; decision dependency; assigned reviewer"
+    ],
+    [
+      "Property advisor responsibility map",
+      "Agree who supplies, reviews and implements the property analysis.",
+      "record; provider; preparer; action; completion evidence"
+    ]
+  ],
+  "service": "https://www.aetaxadvisors.com/real-estate-tax-planning/",
+  "sources": [
+    "https://www.irs.gov/publications/p551",
+    "https://www.irs.gov/publications/p527",
+    "https://www.irs.gov/publications/p925"
+  ],
+  "date": "2026-10-09",
+  "publisher": "AE Tax Advisors"
+}
