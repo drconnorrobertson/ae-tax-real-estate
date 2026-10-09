@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-09",
+  "review_type": "Editorial correction based on cited IRS guidance; no named CPA sign-off claimed",
+  "source_urls": [
+    "https://www.irs.gov/publications/p925",
+    "https://www.irs.gov/taxtopics/tc704",
+    "https://www.irs.gov/pub/irs-pdf/p5653.pdf"
+  ],
+  "changes": [
+    {
+      "old": "Maximize depreciation, minimize taxes. Our cost segregation studies and real estate tax strategies have saved investors millions.",
+      "replacement": "Prepare a property tax review around your records, activity, depreciation history and expected holding period. Evaluate whether a strategy fits before implementing it."
+    },
+    {
+      "old": "Get Your Free Property Analysis",
+      "replacement": "Discuss Your Property Review"
+    },
+    {
+      "old": "Accelerate depreciation on investment properties. Reclassify components into 5, 7, and 15-year property for massive Year 1 deductions.",
+      "replacement": "A cost segregation analysis identifies components that may qualify for shorter depreciation recovery periods. Current tax effects depend on asset eligibility, timing and applicable loss limits."
+    },
+    {
+      "old": "Savings: 25-35% of Purchase Price in Year 1",
+      "replacement": "Compare Depreciation, Usable Loss and Study Cost"
+    },
+    {
+      "old": "STR properties qualify for unique tax benefits under the 7-day rule. Offset W-2 income with rental losses. Professional STR design by <a href=\"https://www.aetaxadvisors.com/real-estate-tax-planning/\" rel=\"noopener noreferrer\" target=\"_blank\">AE Tax Advisors advisory services</a> maximizes property value for both nightly revenue and cost segregation deductions.",
+      "replacement": "An STR review begins with the average customer-use period and the applicable activity rules. Material participation and owner-level loss limits determine whether a loss can offset other income. <a href=\"https://www.aetaxadvisors.com/str-material-participation/\">Review participation and records</a>."
+    },
+    {
+      "old": "STR-specific cost segregation (39-year)",
+      "replacement": "Review the applicable building classification"
+    },
+    {
+      "old": "Offset $100K-$500K+ in W-2 Income",
+      "replacement": "Review Activity Classification and Loss Usability"
+    },
+    {
+      "old": "Defer capital gains taxes when selling. We handle strategy, timeline, and QI coordination.",
+      "replacement": "Review whether a planned real-property transaction can qualify for exchange treatment and coordinate deadlines with the appropriate professionals."
+    },
+    {
+      "old": "100% Capital Gains Deferral",
+      "replacement": "Review Eligibility, Deadlines and Transaction Structure"
+    },
+    {
+      "old": "Own properties for years without a cost seg? Recover depreciation through amendments or Form 3115.",
+      "replacement": "Review prior depreciation and the available correction procedure with the return preparer. The proper method depends on the reporting history and applicable rules."
+    },
+    {
+      "old": "Average Recovery: $75K-$400K",
+      "replacement": "Prior-Year Records and Method Review"
+    },
+    {
+      "old": "Invest capital gains into QOZs for tax deferral and potential gain elimination after 10 years.",
+      "replacement": "Evaluate the rules applicable to the investment date, fund, taxpayer and holding period before committing capital. Compare the tax treatment with investment risk and liquidity."
+    },
+    {
+      "old": "Tax-Free Appreciation After 10 Years",
+      "replacement": "Review Investment-Date and Holding-Period Rules"
+    },
+    {
+      "old": "Qualifying as RE Professional under IRC 469(c)(7) unlocks unlimited loss deductions against any income.",
+      "replacement": "Real estate professional status requires both the more-than-750-hour and more-than-half-of-personal-services tests. Material participation in the rental activity is also relevant, and other loss limits can still apply. <a href=\"https://www.irs.gov/publications/p925\">See IRS Publication 925</a>."
+    },
+    {
+      "old": "750-hour qualification documentation",
+      "replacement": "More-than-750-hour and majority-of-services records"
+    },
+    {
+      "old": "Unlock Unlimited Loss Deductions",
+      "replacement": "Qualification Does Not Remove Every Loss Limit"
+    },
+    {
+      "old": "An IRS-approved engineering analysis that reclassifies building components from 27.5/39-year to 5, 7, and 15-year categories, accelerating depreciation deductions significantly. <a href=\"https://www.aetaxadvisors.com/\" style=\"color:#e94560\">AE Tax Advisors</a> provides comprehensive cost segregation studies for all property types.",
+      "replacement": "A cost segregation study analyzes property components and their appropriate depreciation treatment. A study is not automatically approved by the IRS. Review the methodology, asset classifications and supporting evidence. <a href=\"https://www.irs.gov/pub/irs-pdf/p5653.pdf\">See the IRS Cost Segregation Audit Technique Guide</a>."
+    },
+    {
+      "old": "Yes. Lookback studies recover missed depreciation in a single year through Form 3115 or amended returns going back 3 years.",
+      "replacement": "An existing property can be reviewed. Whether a correction uses an amended return or an accounting-method change depends on the prior reporting and applicable procedure. Ask the preparer to determine the proper route and any owner-level loss limits."
+    },
+    {
+      "old": "STR properties with average rental periods of 7 days or less are not passive. With material participation (100+ hours), losses offset W-2 and business income.",
+      "replacement": "An average customer-use period of seven days or less generally falls outside the rental-activity definition under the passive activity rules. That alone does not make the activity nonpassive. More than 100 hours is one participation test only when the taxpayer also participates at least as much as any other individual. Other tests and loss limits must be reviewed. <a href=\"https://www.irs.gov/publications/p925\">See IRS Publication 925</a>."
+    },
+    {
+      "old": "Yes. Under OBBBA, 100% bonus depreciation is permanent. The full accelerated depreciation from a cost seg can be taken in Year 1. Schedule a consultation with <a href=\"https://www.aetaxadvisors.com/\" style=\"color:#e94560\">AE Tax Advisors</a> to maximize your deductions.",
+      "replacement": "Current federal guidance provides 100% bonus depreciation for qualifying property acquired and placed in service after January 19, 2025. Eligibility, elections, acquisition rules and state treatment require review. The building itself and every study component do not automatically qualify. <a href=\"https://www.irs.gov/taxtopics/tc704\">See IRS depreciation guidance</a>."
+    },
+    {
+      "old": "Our studies are $1 per square foot. A 2,000 sq ft property costs $2,000. Typical savings are 25-35x the study cost.",
+      "replacement": "AE publishes $1 per square foot with a $2,000 minimum. Confirm the current fee, property scope and separately priced implementation work in a written proposal. A quote does not guarantee tax savings. <a href=\"https://www.aetaxadvisors.com/cost-segregation-study-cost-pricing/\">Review AE study pricing</a>."
+    },
+    {
+      "old": "Not necessarily. The STR loophole allows non-RE professionals to offset W-2 income with rental losses if the property has a 7-day average rental period and you materially participate.",
+      "replacement": "Not every property owner needs real estate professional status. For an activity outside the rental-activity definition, material participation may be relevant without that status. Eligibility and the usability of any loss require a complete facts-based review. <a href=\"https://www.irs.gov/publications/p925\">See IRS Publication 925</a>."
+    },
+    {
+      "old": "Every month you wait is money left on the table. Get a free property analysis today.",
+      "replacement": "Bring your property records, income picture and planned transactions. Discuss whether a study or planning engagement is appropriate and confirm its written scope."
+    },
+    {
+      "old": "Maximize Your Real Estate Tax Savings",
+      "replacement": "Plan Your Real Estate Tax Review"
+    }
+  ],
+  "removed": "Unsupported homepage aggregate savings metrics and numeric before/after illustration."
+}
