@@ -1,0 +1,372 @@
+{
+  "key": "realestate",
+  "domain": "aetaxadvisorsforrealestate.com",
+  "date": "2026-10-09",
+  "baseline": 300,
+  "target": 500,
+  "route": "property-files",
+  "publisher": "AE Tax Advisors",
+  "service": "https://www.aetaxadvisors.com/real-estate-tax-planning/",
+  "topics": [
+    {
+      "title": "Rental closing cost allocation",
+      "trigger": "A closing statement combines financing, acquisition and prepaid operating items.",
+      "principle": "Different closing entries can affect basis, financing costs or expenses differently. Preserve the transaction details instead of adding every line to the building cost.",
+      "example": "An investor pays loan fees, prepaid insurance and title charges at the same closing and imports the total into one asset account.",
+      "checks": [
+        "Purchase price identification",
+        "Land allocation evidence",
+        "Title charge detail",
+        "Financing fee separation",
+        "Prepaid insurance schedule",
+        "Tax proration review",
+        "Seller credit classification",
+        "Preparer allocation decision",
+        "Opening asset record"
+      ],
+      "tag": "basis"
+    },
+    {
+      "title": "Renovation contractor draw reconciliation",
+      "trigger": "A contractor bills progress draws rather than individual installed items.",
+      "principle": "A cash payment proves that money moved but may not identify completed work. Match draws, change orders and final invoices before creating an improvement record.",
+      "example": "An apartment owner pays three draws while electrical and plumbing work finish in different phases.",
+      "checks": [
+        "Original contract scope",
+        "Draw payment trail",
+        "Work-completion evidence",
+        "Change order register",
+        "Allowance reconciliation",
+        "Direct purchase separation",
+        "Retainage status confirmation",
+        "Final invoice tie-out",
+        "Asset file approval"
+      ],
+      "tag": "improvement"
+    },
+    {
+      "title": "Roof project repair review",
+      "trigger": "A roof project combines small repairs, replacement and related damage work.",
+      "principle": "Repair versus improvement analysis depends on the facts and applicable unit of property. A contractor's use of the word repair does not settle tax treatment.",
+      "example": "A landlord replaces one damaged section while the invoice also covers a larger roof upgrade and interior restoration.",
+      "checks": [
+        "Pre-work condition evidence",
+        "Damage cause documentation",
+        "Roof area affected",
+        "Material specification change",
+        "Interior work separation",
+        "Contractor scope breakdown",
+        "Insurance payment tracking",
+        "Preparer capitalization review",
+        "Post-work asset update"
+      ],
+      "tag": "improvement"
+    },
+    {
+      "title": "HVAC replacement documentation",
+      "trigger": "A rental replaces equipment that serves more than one unit or activity.",
+      "principle": "Identify the system, locations served and replaced components. The invoice needs enough detail to support capitalization, allocation and any disposition review.",
+      "example": "A mixed-use building installs new HVAC serving residential units and a ground-floor shop.",
+      "checks": [
+        "Existing system identifier",
+        "Locations served inventory",
+        "Replacement invoice detail",
+        "Retained component evidence",
+        "Installation completion date",
+        "Shared cost allocation",
+        "Old schedule reference",
+        "Disposition review request",
+        "Updated depreciation handoff"
+      ],
+      "tag": "improvement"
+    },
+    {
+      "title": "Appliance replacement asset history",
+      "trigger": "A rental replaces refrigerators or other separately identified items.",
+      "principle": "Keep the purchase, location, readiness and old asset record connected. Do not count an item in both a new purchase schedule and an existing study cost pool.",
+      "example": "A landlord replaces appliances that were already separately tracked after an earlier cost segregation study.",
+      "checks": [
+        "Old appliance identifier",
+        "Prior depreciation reference",
+        "New purchase receipt",
+        "Delivery location evidence",
+        "Ready-for-use confirmation",
+        "Removal or sale record",
+        "Warranty credit adjustment",
+        "Preparer asset retirement",
+        "Replacement schedule update"
+      ],
+      "tag": "equipment"
+    },
+    {
+      "title": "Furniture inventory at rental turnover",
+      "trigger": "Furniture changes as guests, owners and cleaners report loss or damage.",
+      "principle": "Use an inventory that distinguishes retained, replaced, sold and missing items. A listing photograph can corroborate an item but does not establish its acquisition cost.",
+      "example": "A furnished rental upgrades mattresses and sofas while the owner moves some old items into personal use.",
+      "checks": [
+        "Opening room inventory",
+        "Original purchase references",
+        "Replacement item receipts",
+        "Personal transfer evidence",
+        "Sale proceeds record",
+        "Discarded item confirmation",
+        "Room location update",
+        "Study overlap check",
+        "Preparer schedule changes"
+      ],
+      "tag": "equipment"
+    },
+    {
+      "title": "Security deposit accounting",
+      "trigger": "A landlord holds tenant deposits and sometimes applies them to damage or unpaid rent.",
+      "principle": "Separate refundable funds from amounts later retained or applied. The lease terms and actual disposition matter more than the bank account label.",
+      "example": "A landlord collects a deposit, returns most of it at move-out and keeps the remainder for an itemized damage charge.",
+      "checks": [
+        "Lease deposit terms",
+        "Deposit receipt trail",
+        "Tenant liability ledger",
+        "Move-out condition report",
+        "Damage invoice support",
+        "Retained amount notice",
+        "Refund payment evidence",
+        "Income recognition review",
+        "Tenant balance closure"
+      ],
+      "tag": "records"
+    },
+    {
+      "title": "Property manager statement reconciliation",
+      "trigger": "A manager collects rent and pays expenses before transferring cash to the owner.",
+      "principle": "Reconcile gross rent, expenses, reserves and owner distributions. The owner's net deposit is not a complete rental activity ledger.",
+      "example": "A manager holds a maintenance reserve and deducts repairs while the owner records only monthly transfers.",
+      "checks": [
+        "Gross rent report",
+        "Manager fee breakdown",
+        "Vendor expense references",
+        "Reserve opening balance",
+        "Reserve movement ledger",
+        "Owner transfer match",
+        "Refund and credit tracking",
+        "Property-level book tie-out",
+        "Manager exception follow-up"
+      ],
+      "tag": "records"
+    },
+    {
+      "title": "Rental insurance claim restoration",
+      "trigger": "Insurance proceeds and repair invoices arrive at different times after property damage.",
+      "principle": "Document the event, damaged assets, payments and restoration separately. A claim settlement does not by itself determine casualty, basis or repair treatment.",
+      "example": "A storm damages a duplex and the insurer pays an advance before the final restoration invoice is available.",
+      "checks": [
+        "Pre-event asset records",
+        "Damage event evidence",
+        "Claim determination letter",
+        "Insurance payment timeline",
+        "Repair versus upgrade detail",
+        "Demolition cost separation",
+        "Retained asset identification",
+        "Preparer casualty review",
+        "Post-restoration basis record"
+      ],
+      "tag": "improvement"
+    },
+    {
+      "title": "Rental property tax escrow reconciliation",
+      "trigger": "Mortgage payments include escrow deposits that differ from actual tax payments.",
+      "principle": "Keep lender escrow funding distinct from the taxing authority payment. Annual statements can explain why the cash flow and tax expense differ.",
+      "example": "An owner pays a higher monthly mortgage escrow amount after reassessment but the county tax payment occurs later.",
+      "checks": [
+        "Opening escrow balance",
+        "Monthly escrow funding",
+        "Lender disbursement detail",
+        "Tax authority confirmation",
+        "Refund or shortage evidence",
+        "Insurance escrow separation",
+        "Property tax period review",
+        "Book adjustment approval",
+        "Year-end escrow tie-out"
+      ],
+      "tag": "records"
+    },
+    {
+      "title": "Rental placed-in-service evidence",
+      "trigger": "A rental is purchased, repaired, listed and first occupied on different dates.",
+      "principle": "Readiness and availability for the intended rental use need factual support. The purchase date and first booking are relevant evidence but are not interchangeable rules.",
+      "example": "An investor closes in August, completes required work in September and receives the first tenant payment in October.",
+      "checks": [
+        "Closing date evidence",
+        "Required work completion",
+        "Utilities and access readiness",
+        "Rental marketing timeline",
+        "Permit and restriction review",
+        "Lease or booking record",
+        "Owner-use day separation",
+        "Preparer service-date conclusion",
+        "Asset schedule date entry"
+      ],
+      "tag": "timing"
+    },
+    {
+      "title": "Rental conversion use records",
+      "trigger": "A property moves from personal use into a rental activity.",
+      "principle": "Conversion requires a supported use timeline and basis review. Original purchase price alone may not establish the appropriate depreciation starting point.",
+      "example": "An owner moves out of a home, makes improvements and begins offering it for rent several months later.",
+      "checks": [
+        "Original purchase cost",
+        "Improvement cost history",
+        "Conversion date evidence",
+        "Market value support",
+        "Personal-use timeline",
+        "Rental readiness record",
+        "Land allocation review",
+        "Preparer basis determination",
+        "Opening rental schedule"
+      ],
+      "tag": "basis"
+    },
+    {
+      "title": "Vacation rental owner stays",
+      "trigger": "Guests and the owner use the same property during the year.",
+      "principle": "Track actual days and purposes before applying rental, personal-use and expense allocation rules. A platform calendar does not resolve every blocked day.",
+      "example": "An owner blocks dates for family stays, maintenance trips and vacant days between guests.",
+      "checks": [
+        "Guest occupied-day record",
+        "Family-use day record",
+        "Maintenance trip support",
+        "Blocked-day explanations",
+        "Related-person stays",
+        "Expense source inventory",
+        "Allocation method review",
+        "Preparer use classification",
+        "Annual calendar reconciliation"
+      ],
+      "tag": "participation"
+    },
+    {
+      "title": "STR guest service evidence",
+      "trigger": "A short-term rental provides services that vary across bookings.",
+      "principle": "Document the actual operating services and frequency. Booking length alone does not settle reporting, activity classification or participation consequences.",
+      "example": "A property supplies periodic linen changes and optional daily cleaning while other bookings receive only turnover service.",
+      "checks": [
+        "Service agreement detail",
+        "Actual service logs",
+        "Cleaning frequency evidence",
+        "Staff responsibility records",
+        "Guest charge separation",
+        "Average stay computation inputs",
+        "Owner service time",
+        "Preparer reporting analysis",
+        "Next-season service changes"
+      ],
+      "tag": "participation"
+    },
+    {
+      "title": "Rental participation task logs",
+      "trigger": "An owner wants a review of involvement in operating a rental.",
+      "principle": "Record tasks, dates and reasonable supporting evidence. Hours, managerial involvement, other participants and the applicable tests need analysis beyond a total on a spreadsheet.",
+      "example": "An owner coordinates repairs and guest issues while a manager handles most bookings and cleaning.",
+      "checks": [
+        "Owner task categories",
+        "Task date evidence",
+        "Time estimate support",
+        "Manager activity records",
+        "Contractor involvement context",
+        "Investor activity separation",
+        "Household participant facts",
+        "Preparer test application",
+        "Year-end log review"
+      ],
+      "tag": "participation"
+    },
+    {
+      "title": "Real estate professional work calendar",
+      "trigger": "A taxpayer performs work across rentals, a separate profession and other activities.",
+      "principle": "Real estate professional status and material participation are distinct analyses. Maintain complete facts rather than assuming ownership or a job title resolves either test.",
+      "example": "A medical professional reduces clinical days and begins personally managing several rentals during the year.",
+      "checks": [
+        "All work-hour categories",
+        "Real estate task detail",
+        "Non-real-estate work record",
+        "Ownership activity inventory",
+        "Spousal participation facts",
+        "Employee ownership review",
+        "Grouping election history",
+        "Preparer status analysis",
+        "Annual evidence update"
+      ],
+      "tag": "participation"
+    },
+    {
+      "title": "Rental loan proceeds use tracing",
+      "trigger": "An owner refinances and distributes some proceeds while using other funds for improvements.",
+      "principle": "The use of borrowed funds is important to interest analysis. The property securing the loan does not by itself explain how every dollar was used.",
+      "example": "A rental refinance pays off an earlier loan, funds a renovation and transfers remaining cash to the owner's brokerage account.",
+      "checks": [
+        "Loan closing statement",
+        "Prior debt payoff match",
+        "Renovation payment trail",
+        "Personal transfer identification",
+        "Inter-account transfer bridge",
+        "Interest charge record",
+        "Debt-use allocation review",
+        "Preparer tracing conclusion",
+        "Future proceeds-use control"
+      ],
+      "tag": "financing"
+    },
+    {
+      "title": "Rental sale asset register",
+      "trigger": "A rental sale includes land, building and separately tracked assets.",
+      "principle": "Retain the allocation, depreciation history and transaction facts. Sale proceeds and outstanding mortgage balance do not by themselves establish taxable gain.",
+      "example": "An investor sells a furnished rental after replacements and an earlier cost segregation study changed the asset schedule.",
+      "checks": [
+        "Original basis schedule",
+        "Accumulated depreciation detail",
+        "Improvement additions",
+        "Asset replacement history",
+        "Contract sale allocation",
+        "Selling expense references",
+        "Debt payoff separation",
+        "Preparer gain and recapture",
+        "Final asset closure"
+      ],
+      "tag": "sale"
+    },
+    {
+      "title": "Rental portfolio shared expenses",
+      "trigger": "An owner pays bills covering multiple properties and personal activity.",
+      "principle": "Document a reasonable, supportable allocation and preserve the source amount. A portfolio expense must not be recorded at full cost on every property.",
+      "example": "An owner receives one landscaping invoice covering three rentals and a personal residence.",
+      "checks": [
+        "Property identifier list",
+        "Vendor scope breakdown",
+        "Personal portion separation",
+        "Allocation basis evidence",
+        "Total invoice reconciliation",
+        "Property-level posting match",
+        "Reimbursement and refund trail",
+        "Reviewer allocation approval",
+        "Recurring expense control"
+      ],
+      "tag": "records"
+    },
+    {
+      "title": "Prior rental depreciation gaps",
+      "trigger": "Old returns and available depreciation schedules do not agree.",
+      "principle": "Reconstruct the asset history before proposing a correction. The applicable procedure may depend on the nature and years of the error; do not assume every issue is resolved by an amended return.",
+      "example": "An investor supplies two returns but no asset schedule for a property first rented several years earlier.",
+      "checks": [
+        "Filed return inventory",
+        "Original acquisition documents",
+        "Prior asset schedule request",
+        "Claimed depreciation reconstruction",
+        "Improvement history",
+        "Election statement search",
+        "Error period mapping",
+        "Preparer correction procedure",
+        "Future schedule reconciliation"
+      ],
+      "tag": "depreciation"
+    }
+  ]
+}
