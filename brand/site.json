@@ -1,0 +1,63 @@
+{
+  "repo": "ae-tax-real-estate",
+  "domain": "aetaxadvisorsforrealestate.com",
+  "label": "Real Estate Tax Planning",
+  "eyebrow": "For investors building lasting portfolios",
+  "headline": "A considered tax strategy for every stage of ownership.",
+  "intro": "Acquisitions, rental operations, depreciation, and dispositions belong in the same conversation. Build a clearer picture of your portfolio before making the next tax decision.",
+  "service": "/real-estate-tax-planning/",
+  "role": "Real-estate operating facts and tax preparation",
+  "topics": [
+    [
+      "Property review files",
+      "/property-files/",
+      "Prepare acquisition, improvement, financing, and ownership records by property."
+    ],
+    [
+      "Acquisition basis",
+      "/property-files/single-family-long-term-rentals/acquisition-basis-bridge/",
+      "Connect the closing statement with land allocation and the depreciation schedule."
+    ],
+    [
+      "Participation records",
+      "https://www.aetaxadvisors.com/reps-real-estate-professional-status/",
+      "Understand why activity classification and contemporaneous records matter."
+    ],
+    [
+      "Cost segregation",
+      "https://www.aetaxadvisors.com/cost-segregation-study/",
+      "Evaluate study scope together with deduction usability and return implementation."
+    ],
+    [
+      "Short-term rentals",
+      "https://www.aetaxadvisors.com/short-term-rental-tax-strategy/",
+      "Review the operating facts behind rental activity and participation treatment."
+    ],
+    [
+      "Dispositions and exchanges",
+      "https://www.aetaxadvisors.com/blog/1031-exchange-timeline-45-180-day-rules/",
+      "Plan for basis, depreciation history, exchange requirements, and the next investment."
+    ]
+  ],
+  "prepare": [
+    "Property-by-property ownership, purchase dates, and closing records",
+    "Current depreciation schedules, prior studies, and improvement invoices",
+    "Rental calendars, management agreements, and participation records",
+    "Financing, planned dispositions, and suspended-loss information"
+  ],
+  "steps": [
+    [
+      "Map each property",
+      "Separate the owner, use, financing, and reporting history of every asset."
+    ],
+    [
+      "Model the portfolio decision",
+      "Evaluate timing and limitation rules alongside operating cash and holding plans."
+    ],
+    [
+      "Coordinate the professionals",
+      "Align the study provider, return preparer, bookkeeper, and transaction advisers."
+    ]
+  ],
+  "generated": true
+}
