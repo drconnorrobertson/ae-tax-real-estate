@@ -59,5 +59,6 @@
       "Align the study provider, return preparer, bookkeeper, and transaction advisers."
     ]
   ],
-  "generated": true
+  "generated": true,
+  "outputDirectory": "public"
 }
