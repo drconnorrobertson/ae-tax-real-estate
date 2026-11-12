@@ -1,0 +1,22 @@
+{
+  "title": "Rental Portfolio Tax Planning & Records | AE Tax Advisors",
+  "description": "Prepare a rental portfolio tax review with property records, participation evidence, study quote comparisons and sale planning resources from AE Tax Advisors.",
+  "heading": "Review the portfolio, then the property decision",
+  "intro": "Connect the property records with the owner-level questions before comparing a study or planned sale.",
+  "links": [
+    {
+      "href": "/resources/rental-portfolio-tax-review-map/",
+      "label": "Map your rental portfolio"
+    },
+    {
+      "href": "/resources/str-participation-evidence-file/",
+      "label": "Organize STR participation evidence"
+    },
+    {
+      "href": "/resources/rental-sale-tax-review-file/",
+      "label": "Prepare for a rental sale"
+    }
+  ],
+  "buildCommand": "node topical-depth-build.cjs && node brand-build.cjs && node scripts/brand-check.mjs public && node scripts/buyer-intent-release.cjs public && node scripts/practical-homepage.cjs public && node scripts/brand-check.mjs public",
+  "outputDirectory": "public"
+}
