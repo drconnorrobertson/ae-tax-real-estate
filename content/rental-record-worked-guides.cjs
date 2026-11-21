@@ -1,6 +1,6 @@
 // Original educational examples for two existing pages; no client outcomes are represented.
 const updated='2026-11-21';
-const style='<style>.worked-ledger .table-scroll{max-width:100%;overflow-x:auto}.worked-ledger td{white-space:nowrap;overflow-wrap:normal}.worked-ledger th{overflow-wrap:normal}.worked-ledger caption{text-align:left;font-weight:600;margin-bottom:12px}.worked-ledger .table-scroll:focus-visible{outline:3px solid #c88622;outline-offset:3px}</style>';
+const style='<style>.worked-ledger .table-scroll{max-width:100%;overflow-x:auto}.worked-ledger td{white-space:nowrap;overflow-wrap:normal}.worked-ledger th{overflow-wrap:normal}.worked-ledger caption{text-align:left;font-weight:600;margin-bottom:12px}.worked-ledger .table-scroll:focus-visible{outline:3px solid #c88622;outline-offset:3px}@media(max-width:650px){.worked-ledger .table-scroll th,.worked-ledger .table-scroll td{padding:7px}}</style>';
 module.exports={
  '/property-files/deep-dive/rental-portfolio-shared-expenses/property-level-posting-match/':{
   updated,
