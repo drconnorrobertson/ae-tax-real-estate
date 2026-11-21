@@ -9,7 +9,7 @@ module.exports={
   article:`${style}<article class="worked-ledger"><h2>One invoice, four locations, one control total</h2>
   <p>The check is whether the allocation approved in the working file actually reached the property books. A correct spreadsheet does not repair duplicate ledger entries by itself. Start with an invoice identifier and trace it through the allocation schedule, payment record and final property reports.</p>
   <p>In this fictional example, an owner pays a $1,200 landscaping invoice covering Rental A, Rental B, Rental C and a personal residence. The vendor's attached time log shows four, three, two and one hours respectively. Assume the same hourly charge applies at every location and the $1,200 is the entire bill. These invented facts support this exercise's allocation; they do not establish a universal tax allocation formula.</p>
-  <div class="table-scroll" role="region" aria-label="Fictional invoice allocation" tabindex="0"><table><caption>Invoice LAND-014: ten documented hours, $1,200 total</caption><thead><tr><th scope="col">Location</th><th scope="col">Hours</th><th scope="col">Share</th><th scope="col">Allocated amount</th></tr></thead><tbody>
+  <div class="table-scroll" role="region" aria-label="Fictional invoice allocation" tabindex="0"><table><caption>Invoice LAND-014: ten documented hours, $1,200 total</caption><thead><tr><th scope="col">Location</th><th scope="col">Hours</th><th scope="col">Share</th><th scope="col">Amount</th></tr></thead><tbody>
   <tr><th scope="row">Rental A</th><td>4</td><td>40%</td><td>$480</td></tr>
   <tr><th scope="row">Rental B</th><td>3</td><td>30%</td><td>$360</td></tr>
   <tr><th scope="row">Rental C</th><td>2</td><td>20%</td><td>$240</td></tr>
@@ -19,7 +19,7 @@ module.exports={
   <p>The three rental allocations total $1,080; the personal portion is $120. Each row is the invoice total multiplied by its documented share. If work at one property uses different rates, materials or a separate scope, obtain the vendor breakdown rather than forcing the whole bill through an hours-only ratio.</p>
   <h2>Compare the allocation with what was posted</h2>
   <p>Suppose the owner accidentally entered the full $1,200 as an expense in each rental's report. The property reports now total $3,600 for one $1,200 invoice. The rental total is $2,520 above the supported $1,080 allocation. The issue is duplication and the personal portion, not an extra bill to pay.</p>
-  <div class="table-scroll" role="region" aria-label="Fictional posting reconciliation" tabindex="0"><table><caption>Required difference between the mistaken rental reports and the allocation</caption><thead><tr><th scope="col">Property</th><th scope="col">Mistaken amount</th><th scope="col">Supported allocation</th><th scope="col">Difference</th></tr></thead><tbody>
+  <div class="table-scroll" role="region" aria-label="Fictional posting reconciliation" tabindex="0"><table><caption>Required difference between the mistaken rental reports and the allocation</caption><thead><tr><th scope="col">Property</th><th scope="col">Recorded</th><th scope="col">Expected</th><th scope="col">Change</th></tr></thead><tbody>
   <tr><th scope="row">Rental A</th><td>$1,200</td><td>$480</td><td>−$720</td></tr>
   <tr><th scope="row">Rental B</th><td>$1,200</td><td>$360</td><td>−$840</td></tr>
   <tr><th scope="row">Rental C</th><td>$1,200</td><td>$240</td><td>−$960</td></tr>
@@ -41,7 +41,7 @@ module.exports={
   article:`${style}<article class="worked-ledger"><h2>Keep the claim ledger separate from the restoration ledger</h2>
   <p>A storm-damage file can contain an insurer's estimate, several payments, contractor bills and unrelated improvements. Those documents describe different events. Organize them before trying to infer a tax result from the amount left in the bank.</p>
   <p>Consider a fictional duplex with $50,000 of contractor invoices: $8,000 for emergency mitigation, $32,000 for roof restoration and $10,000 for an elective upgrade outside the storm scope. The labels describe the assumed work, not its final tax classification. The insurer pays an $18,000 advance and later a $12,000 final payment. No lost-rent payment, lender holdback or additional recovery is assumed in this example.</p>
-  <div class="table-scroll" role="region" aria-label="Fictional restoration cash timeline" tabindex="0"><table><caption>Illustrative cash paid and received, not a tax-loss calculation</caption><thead><tr><th scope="col">Event</th><th scope="col">Insurer cash received</th><th scope="col">Contractor cash paid</th></tr></thead><tbody>
+  <div class="table-scroll" role="region" aria-label="Fictional restoration cash timeline" tabindex="0"><table><caption>Insurer receipts and contractor payments, not a tax-loss calculation</caption><thead><tr><th scope="col">Event</th><th scope="col">Received</th><th scope="col">Paid</th></tr></thead><tbody>
   <tr><th scope="row">Emergency work paid</th><td>$0</td><td>$8,000</td></tr>
   <tr><th scope="row">Claim advance received</th><td>$18,000</td><td>$0</td></tr>
   <tr><th scope="row">Progress payment made</th><td>$0</td><td>$16,000</td></tr>
