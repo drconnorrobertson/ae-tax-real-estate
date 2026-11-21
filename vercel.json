@@ -11,7 +11,7 @@
       "permanent": true
     }
   ],
-  "buildCommand": "node scripts/seo-production.cjs",
+  "buildCommand": "node scripts/seo-production.cjs && node scripts/check-rental-calculators.cjs",
   "outputDirectory": "public",
   "headers": [
     {
