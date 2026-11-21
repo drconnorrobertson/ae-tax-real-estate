@@ -17,6 +17,6 @@
       "label": "Prepare for a rental sale"
     }
   ],
-  "buildCommand": "node topical-depth-build.cjs && node brand-build.cjs && node scripts/brand-check.mjs public && node scripts/buyer-intent-release.cjs public && node scripts/practical-homepage.cjs public && node scripts/brand-check.mjs public",
+  "buildCommand": "node topical-depth-build.cjs && node scripts/build-buyer-transition-guides.cjs && node brand-build.cjs && node scripts/brand-check.mjs public && node scripts/buyer-intent-release.cjs public && node scripts/practical-homepage.cjs public && node scripts/brand-check.mjs public",
   "outputDirectory": "public"
 }
