@@ -1,7 +1,38 @@
-// Original educational examples for two existing pages; no client outcomes are represented.
+// Original educational examples for existing pages; no client outcomes are represented.
 const updated='2026-11-21';
 const style='<style>.worked-ledger .table-scroll{max-width:100%;overflow-x:auto}.worked-ledger td{white-space:nowrap;overflow-wrap:normal}.worked-ledger th{overflow-wrap:normal}.worked-ledger caption{text-align:left;font-weight:600;margin-bottom:12px}.worked-ledger .table-scroll:focus-visible{outline:3px solid #c88622;outline-offset:3px}@media(max-width:650px){.worked-ledger .table-scroll th,.worked-ledger .table-scroll td{padding:7px}}</style>';
 module.exports={
+ '/property-files/deep-dive/hvac-replacement-documentation/':{
+  updated,
+  description:'Reconcile a mixed-use rental HVAC replacement invoice and payments, identify the areas served and prepare the old asset records for a documented tax review.',
+  sources:[['Tangible property final regulations','https://www.irs.gov/businesses/small-businesses-self-employed/tangible-property-final-regulations'],['Business recordkeeping','https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping']],
+  article:`${style}<article class="worked-ledger"><h2>Start with the equipment, not the bank withdrawal</h2>
+  <p>A replacement file needs to connect the old system, the new work and the locations served. A payment labeled HVAC does not show whether the contractor replaced a whole system, one component or equipment serving only part of the building. Obtain the itemized scope before asking a preparer to classify the cost.</p>
+  <p>This fictional example concerns a mixed-use building with two apartments and a ground-floor shop. The contractor bills $30,000 for a replacement project. Equipment is $18,000, installation is $9,000 and removal of specified old equipment is $3,000. Assume these are the complete billed charges, with no rebate, financing charge or outstanding change order. These amounts are invented to illustrate a document reconciliation; they are not a quote, client result or tax classification.</p>
+  <div class="table-scroll" role="region" aria-label="Fictional HVAC invoice and payments" tabindex="0"><table><caption>Invoice HVAC-021: two views of the same $30,000 project</caption><thead><tr><th scope="col">View</th><th scope="col">Record</th><th scope="col">Amount</th></tr></thead><tbody>
+  <tr><th scope="row">Invoice</th><td>Equipment</td><td>$18,000</td></tr>
+  <tr><th scope="row">Invoice</th><td>Installation</td><td>$9,000</td></tr>
+  <tr><th scope="row">Invoice</th><td>Old equipment removal</td><td>$3,000</td></tr>
+  <tr><th scope="row">Invoice total</th><td>One project</td><td>$30,000</td></tr>
+  <tr><th scope="row">Payments</th><td>Deposit</td><td>$6,000</td></tr>
+  <tr><th scope="row">Payments</th><td>Progress payment</td><td>$18,000</td></tr>
+  <tr><th scope="row">Payments</th><td>Final payment</td><td>$6,000</td></tr>
+  <tr><th scope="row">Payment total</th><td>Applied to HVAC-021</td><td>$30,000</td></tr>
+  </tbody></table></div>
+  <h2>Reconcile the bill without counting the payments twice</h2>
+  <p>The cost lines total $30,000, and the three payments also total $30,000. Adding those two totals would incorrectly create $60,000 of project cost. Keep the payment applications linked to the invoice. If the accounting system has already recorded the bill, ask the bookkeeper to match its settlement rather than enter each bank withdrawal as another expense.</p>
+  <p>Immediately after the deposit and progress payment, $24,000 has been paid and $6,000 remains payable under these assumptions. A paid deposit alone does not establish that installation is complete. Retain the contractor's completion record, the date the equipment was ready for its intended use and any unresolved commissioning work. Ask the preparer which facts determine the reporting date; do not substitute the first payment date automatically.</p>
+  <h2>Verify the service map before allocating the cost</h2>
+  <p>Label the old and new equipment using internal references, model information and installation locations. Ask the contractor to mark which apartments, shop areas and common spaces each component actually serves. Keep diagrams, zone descriptions and a breakdown of dedicated versus shared work with the invoice.</p>
+  <p>If the shop has a separate system that was not replaced, including the shop in an allocation merely because it occupies the same building would obscure the project's scope. Conversely, a new central component may serve several areas. The presence of two apartments does not by itself support an equal split, and a floor-area ratio is not established by this example. Give the reviewer the service map and available cost detail before selecting and documenting a method.</p>
+  <h2>Connect the old asset history without inventing a write-off</h2>
+  <p>Locate the prior depreciation schedule, acquisition records and any earlier replacement invoices. Identify whether the removed component is separately listed, included within a broader building amount or absent from the available records. Preserve uncertainty: a missing separate line does not establish zero remaining basis, and the new $30,000 invoice does not establish the old component's basis.</p>
+  <p>Ask the reviewer whether a disposition analysis is appropriate and what records, estimates or elections it would require. Do not remove the entire building entry because some equipment was replaced. Keep photographs and the contractor's list of removed and retained components so the written decision can be traced to the actual work.</p>
+  <h2>Close the handoff with a decision and implementation record</h2>
+  <p>The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/tangible-property-final-regulations">IRS tangible property guidance</a> provides a framework for repair and improvement questions. This document bridge does not decide capitalization, recovery period, immediate deductibility or a disposition deduction. The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping">IRS recordkeeping overview</a> explains why supporting records matter.</p>
+  <p>Deliver the scope, invoice reconciliation, payment applications, service map, completion evidence and old schedule together. Record the reviewer's conclusion, unresolved facts and the reference for any bookkeeping or asset-schedule change. Then compare the revised schedule with the approved conclusion. Use the nine focused checks below to open the particular missing record; completing them does not itself establish tax eligibility or savings.</p></article>`
+ },
+
  '/property-files/deep-dive/rental-portfolio-shared-expenses/property-level-posting-match/':{
   updated,
   description:'Reconcile a shared landscaping invoice to three rental property ledgers, separate personal costs and trace a later vendor credit without duplicate expenses.',
